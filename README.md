@@ -9,12 +9,6 @@
 Computer Science & Engineering Student | Aspiring Full Stack Developer | Problem Solver
 </h3>
 
-<h1 align="center">Hi 👋, I'm Abdul - Al - Muheet</h1>
-
-<h3 align="center">
-Computer Science & Engineering Student | Aspiring Full Stack Developer | Problem Solver
-</h3>
-
 <p align="center">
   <a href="https://github.com/Muheet3436">
     <img src="https://komarev.com/ghpvc/?username=Muheet3436&label=Profile%20Views&color=0e75b6&style=flat" />
