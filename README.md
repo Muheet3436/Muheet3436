@@ -4,49 +4,150 @@
 CSE Student | Aspiring Full Stack Developer | Problem Solver 🚀
 </h3>
 
----
-
-- 🎓 I’m currently pursuing **BSc in Computer Science & Engineering**
-
-- 🌱 I’m currently learning **Python, React.js, Node.js, databases, and modern full-stack development**
-
-- 💻 I have experience with **C, C++, Java, TypeScript, HTML, CSS, JavaScript**
-
-- 👨‍💻 All of my projects are available at  
-<a href="https://github.com/Muheet3436">github.com/Muheet3436</a>
-
-- 💬 Ask me about **C, C++, Java, TypeScript, HTML, CSS, and basic web development**
-
-- 🤝 I’m interested in collaborating on **open-source projects and innovative software ideas**
-
-- 📫 How to reach me **muheet3436@gmail.com**
-
-- ⚡ Fun fact **I enjoy learning new technologies and turning ideas into real projects**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Muheet3436&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 👨‍💻 About Me
+
+I'm a **Computer Science and Engineering (CSE) student** passionate about software development and modern technologies.
+
+I enjoy solving programming problems, building projects, and continuously improving my development skills.
+
+Currently, I am focusing on **Full Stack Development** and exploring technologies that help me build clean, scalable, and user-friendly applications.
+
+- 🎓 BSc Student in Computer Science & Engineering
+- 💻 Interested in Software Development and Web Technologies
+- 🚀 Learning by building real-world projects
+- 🌱 Exploring modern full-stack development
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+
+</p>
+
+
+### 🌐 Frontend Development
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+
+</p>
+
+
+### ⚙️ Backend & Database (Learning)
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+
+</p>
+
+
+### 🧰 Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
+
+</p>
+
+
+---
+
+## 🚀 Currently Working On
+
+- 🔭 Improving my Full Stack Development skills
+- 🌱 Learning Python, React.js, Node.js and databases
+- 💻 Building personal and academic projects
+- 🧠 Practicing Data Structures & Algorithms
+- 📚 Exploring software engineering concepts
+
+
+---
+
+## 🤝 Looking To Collaborate On
+
+- Open-source projects
+- Beginner-friendly web applications
+- Software engineering projects
+- Innovative technology ideas
+
+
+---
+
+## 💬 Ask Me About
+
+- C
+- C++
+- Java
+- TypeScript
+- HTML & CSS
+- Basic Web Development
+- Programming Fundamentals
+
+
+---
+
+## 📂 My Projects
+
+All of my projects are available here:
+
+🔗 **GitHub:**  
+https://github.com/Muheet3436
+
+
+---
+
+## 🌐 Connect With Me
+
 
 <p align="left">
 
 <a href="mailto:muheet3436@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 
 <a href="https://github.com/Muheet3436">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
 
 <a href="https://www.facebook.com/abdulal.muheet">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
+
 
 <a href="https://discord.com/users/1544770275147645109">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
+
 
 <a href="https://wa.me/8801629994843">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
@@ -54,93 +155,54 @@ CSE Student | Aspiring Full Stack Developer | Problem Solver 🚀
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+# 📊 GitHub Stats
 
-<p align="left">
 
-<a href="https://www.cprogramming.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
+<p align="center">
 
-<a href="https://cplusplus.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Muheet3436&show_icons=true&theme=tokyonight"/>
 
-<a href="https://www.java.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muheet3436&layout=compact&theme=tokyonight"/>
 
 </p>
 
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+# 🔥 GitHub Streak
 
 
-<p>
-<img align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=muheet3436&show_icons=true&locale=en&layout=compact"
-alt="muheet3436" />
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muheet3436&theme=tokyonight"/>
+
 </p>
 
 
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=muheet3436&show_icons=true&locale=en"
-alt="muheet3436" />
+---
+
+# 🏆 GitHub Trophies
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muheet3436&theme=tokyonight&row=1"/>
+
 </p>
 
 
-<p>
-<img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=muheet3436"
-alt="muheet3436" />
-</p>
+---
+
+# 👀 Profile Views
+
+
+<img src="https://komarev.com/ghpvc/?username=Muheet3436&label=Profile%20Views&color=blue&style=flat"/>
 
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! Let's connect and build something amazing 🚀
+⭐ Thanks for visiting my profile!  
+<br>
+Let's connect, collaborate, and build something amazing 🚀
 </h3>
