@@ -46,7 +46,7 @@ Currently, my focus is on **full-stack development**, strengthening my programmi
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
 </p>
 
 
